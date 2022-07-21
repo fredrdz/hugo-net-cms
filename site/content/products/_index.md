@@ -1,5 +1,5 @@
 ---
-title: Our Coffee asd
+title: "Our Coffee "
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
